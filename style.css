@@ -26,6 +26,9 @@ box-shadow: #ddd;
 padding: 20px;
 }
 
+a{
+    color: #777;
+}
 
 li{
     display: inline-block;
@@ -33,4 +36,15 @@ li{
     margin: 0px;
     list-style-type: none;
     padding: 5px;
+    
 }
+
+#laptop{
+   width: fit-content;
+}
+
+img{
+    width: max-content;
+    padding-right: 1em;
+}
+<img src="assets/front-page-article.png" alt="placeholder">
